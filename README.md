@@ -9,3 +9,5 @@
  02-06-2020 v1.2 Adding Portuguese translation
 
  10-06-2020 v1.3 Some textual updates timing and difficulty and based on feedback.
+
+ 04-10-2020 v1.3b Voice over by Stephen Weese added #2
