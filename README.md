@@ -11,3 +11,5 @@
  10-06-2020 v1.3 Some textual updates timing and difficulty and based on feedback.
 
  04-10-2020 v1.3b Voice over by Stephen Weese added #2
+
+ 28-10-2020 v1.3c Fix Polishtranslation (by adrkakol) #3
