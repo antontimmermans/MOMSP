@@ -12,6 +12,8 @@
 
  04-10-2020 v1.3b Voice over by Stephen Weese added #2
 
- 28-10-2020 v1.3c Fix Polish translation (by adrkakol) #3
+ 23-10-2020 v1.3c Fix Polish translation (by adrkakol) #3
 
- 28-10-2020 v1.3d Small Fix Polish translation
+ 23-10-2020 v1.3d Small Fix Polish translation
+
+ 26-10-2020 v1.3e Small Fix in English text
