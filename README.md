@@ -17,3 +17,5 @@
  23-10-2020 v1.3d Small Fix Polish translation
 
  26-10-2020 v1.3e Small Fix in English text
+
+ 31-10-2020 v1.3f Updated Polish Translation by Litas, Added Korean translation by cheeseguyhcl #4
