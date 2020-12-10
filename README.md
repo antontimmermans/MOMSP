@@ -21,3 +21,5 @@
  31-10-2020 v1.3f Updated Polish Translation by Litas, Added Korean translation by cheeseguyhcl #4
 
  25-11-2020 v1.4 Update using new spawn mechanism triggered by BeforeMosterActivation
+
+ 10-12-2020 v1.4a Adding Russian translation by ERROK51
