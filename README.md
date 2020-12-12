@@ -23,3 +23,5 @@
  25-11-2020 v1.4 Update using new spawn mechanism triggered by BeforeMosterActivation
 
  10-12-2020 v1.4a Adding Russian translation by ERROK51
+
+ 10-12-2020 v1.4b Adding Spanish Voiceover created by Noviembre Nocturno & Jon Iñaki Ibiriku soundtrack
