@@ -25,3 +25,5 @@
  10-12-2020 v1.4a Adding Russian translation by ERROK51
 
  10-12-2020 v1.4b Adding Spanish Voiceover created by Noviembre Nocturno & Jon Iñaki Ibiriku soundtrack
+
+ 04-01-2021 v1.4c Updated Polish translation by Litas & Hacai
