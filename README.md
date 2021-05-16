@@ -27,3 +27,5 @@
  10-12-2020 v1.4b Adding Spanish Voiceover created by Noviembre Nocturno & Jon Iñaki Ibiriku soundtrack
 
  04-01-2021 v1.4c Updated Polish translation by Litas & Hacai
+
+ 16-05-2021 V1.4d Improved Dynamite instructions based on feedback, also in Spanish and Polish translations.
