@@ -29,3 +29,5 @@
  04-01-2021 v1.4c Updated Polish translation by Litas & Hacai
 
  16-05-2021 V1.4d Improved Dynamite instructions based on feedback, also in Spanish and Polish translations.
+
+ 19-05-2021 V1.4e Updated Portuguese translation with the same as v1.4d .
