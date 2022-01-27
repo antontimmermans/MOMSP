@@ -33,3 +33,5 @@
  19-05-2021 V1.4e Updated Portuguese translation with the same as v1.4d .
 
  23-01-2022 V1.4f added French translation created by facrax.
+
+ 27-01-2022 V1.4g Minor fix on evidence collected
