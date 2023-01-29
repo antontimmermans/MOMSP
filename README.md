@@ -35,3 +35,5 @@
  23-01-2022 V1.4f added French translation created by facrax.
 
  27-01-2022 V1.4g Minor fix on evidence collected
+
+ 29-01-2023 V1.4e German translation added by frankenraecher
