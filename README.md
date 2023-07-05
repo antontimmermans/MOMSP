@@ -37,3 +37,5 @@
  27-01-2022 V1.4g Minor fix on evidence collected
 
  29-01-2023 V1.4e German translation added by frankenraecher
+ 
+ 05-07-2023 V1.4f Chinese translation added by sammylin
