@@ -41,3 +41,5 @@
  05-07-2023 V1.4f Chinese translation added by sammylin
 
 15-12-2023 V1.4g Added MinCam and MaxCam settings to limit camera movement to play area
+
+11-01-2023 V1.4h Added Czech translation by LabBrab
