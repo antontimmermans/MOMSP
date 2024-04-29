@@ -45,3 +45,5 @@
 11-01-2023 V1.4h Added Czech translation by LabBrab
 
 16-05-2024 V1.4i Chinese translation improved by sammylin
+
+16-05-2024 V1.4j Italian translation improved by Rychard
