@@ -49,3 +49,5 @@
 29-04-2024 V1.4j Italian translation improved by Rychard
 
 29-04-2024 V1.4k Italian translation (again) improved by Rychard
+
+25-01-2026 V1.4l fixed small issues in Russian transaltion
